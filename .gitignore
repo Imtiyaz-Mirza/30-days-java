@@ -1,1 +1,21 @@
 *.class
+# mobile Tools 
+.mtj.tmp/
+
+# Package Files 
+*.jar
+*.war
+*.ear
+
+#virtual machine crash logs
+hs_err_pid*
+
+#Build folders 
+target/
+bin/
+build/
+
+.vscode/
+.settings/
+.project/
+.classpath/
