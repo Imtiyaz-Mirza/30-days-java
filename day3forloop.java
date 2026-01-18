@@ -6,5 +6,6 @@ public class day3forloop {
         for (int i = 5; i >= 1; i--) {
             System.out.println(i + "Seconds !");
         }
+
     }
 }
