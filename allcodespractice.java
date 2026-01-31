@@ -46,7 +46,7 @@ public class allcodespractice {
                     return;
 
                 default:
-                    System.out.println("please Enter valid inputl !");
+                    System.out.println("please Enter the above valid inputs !");
                     System.out.println("Ex : 1, 2 or 3");
                     break;
 
